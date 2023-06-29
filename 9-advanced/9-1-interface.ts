@@ -1,3 +1,5 @@
+//interface는 어떤것을 구현할 목적으로 사용하고 type은 어떠한 데이터를 담을목적으로 사용
+
 type PositionType = {
   x: number;
   y: number;
